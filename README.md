@@ -5,4 +5,6 @@
 ### TODO:
 Build the API in nodejs.
 
-Built the discord Bot to interract with the API.
+Build the discord Bot to interract with the API.
+
+Build the interface.
